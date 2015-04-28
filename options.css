@@ -1,0 +1,109 @@
+.button {
+width: 115px;
+height: 25px;
+background: #4E9CAF;
+padding: 20px;
+margin: 5px;
+text-align: center;
+border-radius: 5px;
+color: white;
+font-weight: bold;
+}
+
+body {
+    background-color: silver;
+}
+
+input {
+	width : 100%;
+}
+
+p{
+	font-size:20px;
+}
+
+.controls label {
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 40px;
+}
+.controls input {
+    display: block;
+    margin: 0 auto -40px;
+}
+img
+{
+position:absolute;
+left: 0px;
+}
+#layer1
+{
+   z-index: 10;
+    top : 250px;   
+}
+#layer2
+{
+    z-index: 20;
+     top : 220px;
+}
+
+#layer3
+{
+    z-index: 30;
+     top : 190px;
+}
+#layer4
+{
+    z-index: 40;
+     top : 160px;
+
+}
+#layer5
+{
+    z-index: 50;
+     top : 130px;
+
+}
+#layer6
+{
+    z-index: 60;
+     top : 100px;
+}
+
+
+#layer7
+{
+   z-index: 10;
+    top : 250px;   
+}
+#layer8
+{
+    z-index: 20;
+     top : 220px;
+}
+
+#layer9
+{
+    z-index: 30;
+     top : 190px;
+}
+#layer10
+{
+    z-index: 40;
+     top : 160px;
+
+}
+#layer11
+{
+    z-index: 50;
+     top : 130px;
+
+}
+#layer12
+{
+    z-index: 60;
+     top : 100px;
+}
